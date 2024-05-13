@@ -1,10 +1,10 @@
 # Sarfraz Ahmed's Online Portfolio
 
-# Key Skill Set
+## Key Skill Set
 
-# Education
+## Education
 
-## PhD, Centre for Future Transport and Cities (FTC), Coventry Uninversity
+### PhD, Centre for Future Transport and Cities (FTC), Coventry Uninversity
 
 
-# Publication
+## Publication
