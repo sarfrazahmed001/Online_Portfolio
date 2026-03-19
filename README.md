@@ -2,7 +2,27 @@
 
 ## About Me
 
+AI and Machine Learning Engineer specialising in autonomous systems, perception technologies, and intelligent sensing. Experienced in designing and implementing AI-driven perception and prediction models for autonomous vehicle environments, including computer vision, multispectral sensor fusion, and behaviour prediction.
+
+Proven ability to develop machine learning prototypes and scalable data pipelines supporting the progression of technologies from early-stage research through to validated autonomous system capabilities. Strong expertise in Python-based AI development, deep learning frameworks, and large-scale dataset analysis.
+
+Research and engineering work focuses on perception, situational awareness, and decision support systems for autonomous platforms operating in complex environments.
+
+
 ## Key Skill Set
+
+* **Programming Languages:** Python | C/C++ | Bash | SQL
+
+* **Artificial Intelligence & Machine Learning**: Deep Learning | Computer Vision for Autonomous Perception | Generative AI | Predictive Behaviour Modelling | Model Evaluation
+
+* **Autonomous Systems:** Sensor Fusion for Multimodal Perception | Pedestrian Detection | Behaviour Prediction for Autonomous Navigation | Multispectral Sensing
+
+* **Software Engineering:** Machine Learning Pipelines | Data Processing Systems | Model Training & Evaluation Frameworks | Version Control (Git) | Docker • Linux
+
+* **Data Science & Analytics:** Large-scale dataset processing | Statistical modelling | Experimental analysis | Data visualisation
+
+* **Frameworks & Libraries:**  PyTorch | TensorFlow | OpenCV | NumPy | Pandas | Scikit-learn
+
 
 ## Education
 
