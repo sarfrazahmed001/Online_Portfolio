@@ -8,6 +8,10 @@ Proven ability to develop machine learning prototypes and scalable data pipeline
 
 Research and engineering work focuses on perception, situational awareness, and decision support systems for autonomous platforms operating in complex environments.
 
+## Projects
+
+_**Please note that I will be adding the codebases for my published work in this repository. In the meantime, please feel free to contact with any questions.**_
+
 
 ## Key Skill Set
 
