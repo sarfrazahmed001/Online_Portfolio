@@ -17,13 +17,13 @@ _**Please note that I will be adding the codebases for my published work in this
 
 * **Programming Languages:** Python | C/C++ | Bash | SQL
 
-* **Artificial Intelligence & Machine Learning**: Deep Learning | Computer Vision for Autonomous Perception | Generative AI | Predictive Behaviour Modelling | Model Evaluation
+* **Artificial Intelligence & Machine Learning**: Deep Learning | Computer Vision for Autonomous Perception | Generative AI | Predictive Behaviour Modelling | Model Evaluation | NLP | GAN |GNN
 
 * **Autonomous Systems:** Sensor Fusion for Multimodal Perception | Pedestrian Detection | Behaviour Prediction for Autonomous Navigation | Multispectral Sensing
 
-* **Software Engineering:** Machine Learning Pipelines | Data Processing Systems | Model Training & Evaluation Frameworks | Version Control (Git) | Docker • Linux
+* **Software Engineering:** Machine Learning Pipelines | Data Processing Systems | Model Training & Evaluation Frameworks | Version Control (Git) | Docker | Unix/Linux
 
-* **Data Science & Analytics:** Large-scale dataset processing | Statistical modelling | Experimental analysis | Data visualisation
+* **Data Science & Analytics:** Large-scale dataset processing | Statistical modelling | Mathematical Modelling | Experimental analysis | Data visualisation
 
 * **Frameworks & Libraries:**  PyTorch | TensorFlow | OpenCV | NumPy | Pandas | Scikit-learn
 
@@ -44,6 +44,8 @@ _**Please note that I will be adding the codebases for my published work in this
 
 ## Publication
 
+* SynPedSafeAV: A Vision–Language Model Generated Synthetic Pedestrian Video Dataset for Autonomous Driving (working title)
+* Machine Learning in Computational Chemistry: Current State, Recent Advances, and Future Impact (working title)
 * S. Ahmed, M. N. Huda, C. Saha, and M. Quddus, “[**A Pipeline for Evaluation of Keypoint-based Bounding Boxes for Mutli-scale Pedestrians**](https://doi.org/10.1109/ACCESS.2026.3671610),” IEEE Access, 2026, doi: 10.1109/ACCESS.2026.3671610.
 * J. Li, S. Ahmed, and M. Nazmul Huda, “[**Investigation of Gated-cnn and Self-attention Mechanism for Historical Handwritten Text Recognition**](https://doi.org/10.1007/978-3-031-72059-8_17),” in Annual Conference Towards Autonomous Robotic Systems. Springer, 2024, pp. 194–206, doi: 10.1007/978-3-031-72059-8_17.
 * S. Ahmed, C. Saha, and M. N. Huda, “[**Investigation of Action Recognition for Improving Pedestrian Intent Prediction**](https://doi.org/10.1007/978-3-031-43360-3_9),” in Annual Conference Towards Autonomous Robotic Systems. Springer, 2023, pp. 101–113, doi: 10.1007/978-3-031-43360-3_9.
